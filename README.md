@@ -14,3 +14,5 @@ Adding another line to check git commit -am
 
 This is bound to cause trouble
 This should not cause much of a problem
+
+a New line
